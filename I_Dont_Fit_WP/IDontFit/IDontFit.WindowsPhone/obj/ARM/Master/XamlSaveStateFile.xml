@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\idontfit\idontfit.windowsphone\obj\arm\master\intermediatexaml\template.exe" HashGuid="fef7a814-97b2-9a76-70a4-e8d927d6789b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\idontfit\idontfit.windowsphone\assembly-csharp.dll" HashGuid="e2cee66f-4ced-2dff-bc2c-254f23b8476d" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\players\windowsphone81\arm\master\bridgeinterface.winmd" HashGuid="503a3024-4037-701d-bf22-e50bcff483a6" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\idontfit\idontfit.windowsphone\unityengine.analytics.dll" HashGuid="c3d57e4a-050d-1a62-e7ef-ebc11a4e87ff" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\idontfit\idontfit.windowsphone\unityengine.dll" HashGuid="ff848d7c-7b9f-2708-355d-dce17937d039" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\idontfit\idontfit.windowsphone\unityengine.networking.dll" HashGuid="908bf5bd-1192-a6db-5d6b-ed0c400d19c9" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\idontfit\idontfit.windowsphone\unityengine.ui.dll" HashGuid="90f91795-1ead-d348-f55f-ddaf318271e9" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\players\windowsphone81\arm\master\unityenginedelegates.winmd" HashGuid="a758cda9-20bf-3e09-bb41-ffa443958e6c" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\players\windowsphone81\arm\master\unityengineproxy.dll" HashGuid="c68902b1-e655-bdea-7e4a-c1ebeeed34ec" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\players\windowsphone81\arm\master\unityplayer.winmd" HashGuid="3c25c20f-85e3-30bb-aafb-ba1498c439ca" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\players\windowsphone81\arm\master\winrtbridge.winmd" HashGuid="d52c3bb5-52b1-8870-a360-d067f07f348c" />
+    <ReferenceAssembly PathName="c:\users\tobyo_000\documents\github\idontfit\i_dont_fit_wp\idontfit\idontfit.windowsphone\winrtlegacy.dll" HashGuid="a1011f77-4abd-6852-a1e4-631fcd3dab56" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
